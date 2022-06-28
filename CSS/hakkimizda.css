@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+}
+   
+
+.tittle-purple{
+    color: purple   ;
+}
+
+.title-red{
+    color: red;
+    font-size: 40px;
+}
+
+a{
+    margin: 10px; 
+    text-align: center;
+ }
+
+ h3{
+    color: #f5d033;
+    
+ }

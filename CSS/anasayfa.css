@@ -1,0 +1,27 @@
+/***************************************Anasayfa************************************/
+body{
+    text-align: center;
+}
+
+.title-red{
+    color: red;
+    font-size: 40px;
+}
+
+.tittle-purple{
+    color: purple   ;
+}
+
+.tittle-yellow{
+    color: #f5d033;
+}
+
+a{
+   margin: 10px; 
+}
+ul{
+    list-style-position: inside;
+}
+
+
+
